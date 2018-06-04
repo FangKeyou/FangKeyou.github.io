@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "不等式的解和解集"
-excerpt: 不等式，一个多么神奇的东东！
+title: "important · 奋斗"
+excerpt: 奋斗，一个多么神奇的东东！
 categories: [Maths]
 comments: true
 ---
